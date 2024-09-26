@@ -1,4 +1,3 @@
-
 [![Tests](https://github.com/kwabenakimia/github-actions-rust-example_v2/actions/workflows/tests.yml/badge.svg)](https://github.com/kwabenakimia/github-actions-rust-example_v2/actions/workflows/tests.yml)
 
 # Example of Rust CI Pipeline 
